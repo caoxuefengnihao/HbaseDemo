@@ -1,0 +1,8 @@
+cn\itheima\mapreduce\FruitApp.class
+cn\ithema\App.class
+cn\ithema\HbaseDemo.class
+cn\itheima\mapper2\Mapper2App.class
+cn\itheima\mapreduce\FruitReducer.class
+cn\itheima\mapper2\FruitReduce.class
+cn\itheima\mapper2\FruitMapper.class
+cn\itheima\mapreduce\FruitMapper.class
